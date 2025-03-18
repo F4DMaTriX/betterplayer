@@ -25,3 +25,5 @@ flutter:
   assets:
     - assets/
   uses-material-design: true
+  dependency_overrides:
+  meta: 1.11.0
